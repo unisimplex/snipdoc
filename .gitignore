@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+
+# Environment / version files
+.python-version
+
+# Lock files (optional)
+uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
